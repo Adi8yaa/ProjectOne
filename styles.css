@@ -1,0 +1,12 @@
+span {
+  color: chocolate;
+}
+.cindy{
+    table-layout: fixed;
+    width: 50%;
+    border-collapse: collapse;
+    background-color:rgb(200,200,200 );
+}
+.cindy ,td, th{
+    border: 2px solid black;
+}
